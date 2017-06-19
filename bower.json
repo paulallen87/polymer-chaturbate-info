@@ -1,0 +1,24 @@
+{
+  "name": "chaturbate-info",
+  "homepage": "https://github.com/paulallen87/polymer-chaturbate-info",
+  "authors": [
+    "Paul Allen <paulallen87555@gmail.com>"
+  ],
+  "description": "A Polymer component for displaying Chaturbate information.",
+  "main": "chaturbate-info.html",
+  "keywords": [
+    "chaturbate"
+  ],
+  "license": "GPL-3.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0-rc.3"
+  }
+}
